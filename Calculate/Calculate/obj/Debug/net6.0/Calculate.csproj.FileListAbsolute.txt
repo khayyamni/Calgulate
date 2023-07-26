@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\New folder\Calculate\Calculate\obj\Debug\net6.0\Calculate.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\Calculate\Calculate\obj\Debug\net6.0\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\Calculate\Calculate\obj\Debug\net6.0\Calculate.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\Calculate\Calculate\obj\Debug\net6.0\Calculate.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\Calculate\Calculate\obj\Debug\net6.0\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\Calculate\Calculate\bin\Debug\net6.0\Calculate.exe
+C:\Users\user\Desktop\New folder\Calculate\Calculate\bin\Debug\net6.0\Calculate.deps.json
+C:\Users\user\Desktop\New folder\Calculate\Calculate\bin\Debug\net6.0\Calculate.runtimeconfig.json
+C:\Users\user\Desktop\New folder\Calculate\Calculate\bin\Debug\net6.0\Calculate.dll
+C:\Users\user\Desktop\New folder\Calculate\Calculate\bin\Debug\net6.0\Calculate.pdb
+C:\Users\user\Desktop\New folder\Calculate\Calculate\obj\Debug\net6.0\Calculate.dll
+C:\Users\user\Desktop\New folder\Calculate\Calculate\obj\Debug\net6.0\refint\Calculate.dll
+C:\Users\user\Desktop\New folder\Calculate\Calculate\obj\Debug\net6.0\Calculate.pdb
+C:\Users\user\Desktop\New folder\Calculate\Calculate\obj\Debug\net6.0\Calculate.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\Calculate\Calculate\obj\Debug\net6.0\ref\Calculate.dll
